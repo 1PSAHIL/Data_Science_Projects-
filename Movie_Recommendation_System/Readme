@@ -1,0 +1,10 @@
+Movie Recommendation System
+This repository contains a simple movie recommendation system that suggests movies similar to the user's favorite movie using cosine similarity on movie features.
+
+Dependencies
+Make sure to install the following dependencies before running the code:
+
+numpy
+pandas
+difflib
+scikit-learn
