@@ -1,0 +1,15 @@
+Bengaluru House Price Prediction Model
+This project demonstrates a house price prediction model for Bengaluru based on various features such as location,
+total square feet, number of bathrooms, and number of bedrooms. The dataset used in this project is Bengaluru_House_Data.csv.
+The following steps outline the process of data cleaning, analysis, model training, and prediction.
+
+Table of Contents
+1.Data Loading and Exploration
+2.Data Cleaning and Preprocessing
+3.Outlier Detection and Removal
+4.Feature Engineering
+5.Encoding Categorical Data
+6.Model Training
+7.Model Evaluation
+8.Interactive Prediction
+9.How to Run the Code
