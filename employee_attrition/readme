@@ -1,0 +1,9 @@
+Employee Attrition Prediction
+This project aims to predict employee attrition using logistic regression.
+Employee attrition refers to the phenomenon of employees leaving the organization,
+which is crucial for workforce management and retention strategies.
+
+Dataset
+The dataset used for this project is HR-Employee-Attrition.csv, which contains
+various attributes of employees such as age, job satisfaction, income, and more.
+The target variable is Attrition, which indicates whether an employee has left the company (Yes or No).
