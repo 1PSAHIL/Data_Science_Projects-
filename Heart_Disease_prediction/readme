@@ -1,0 +1,14 @@
+Project Title: Framingham Heart Study Data Analysis and Logistic Regression Model
+Description:
+This project involves analyzing the Framingham Heart Study dataset to explore the relationships
+between various health metrics and the likelihood of developing coronary heart disease (CHD) over
+ten years. The project includes data visualization, preprocessing, and building a logistic regression model
+to predict the ten-year CHD risk.
+
+Requirements:
+1.Python 3.x
+2.pandas
+3.numpy
+4.seaborn
+5.matplotlib
+6.scikit-learn
