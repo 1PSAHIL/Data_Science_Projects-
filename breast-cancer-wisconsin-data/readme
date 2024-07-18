@@ -1,0 +1,17 @@
+Breast Cancer Classification
+This project involves classifying breast cancer data using two machine learning models:
+a Random Forest Classifier and a Decision Tree Classifier.
+The dataset used for this project is the Breast Cancer Wisconsin (Diagnostic) Data Set.
+
+Table of Contents
+1.Installation
+2.Usage
+3.Dataset
+4.Preprocessing
+5.Model Training and Evaluation
+6.Results
+Installation
+To run this project, you need to have Python installed along with the following libraries:
+
+pandas
+scikit-learn
